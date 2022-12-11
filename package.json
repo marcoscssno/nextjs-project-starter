@@ -7,6 +7,7 @@
     "type-check": "tsc"
   },
   "dependencies": {
+    "mongoose": "^6.8.0",
     "next": "latest",
     "react": "^18.2.0",
     "react-dom": "^18.2.0"
@@ -16,5 +17,11 @@
     "@types/react": "^17.0.2",
     "@types/react-dom": "^17.0.1",
     "typescript": "^4.8.3"
-  }
+  },
+  "name": "nextjs-project-starter",
+  "version": "1.0.0",
+  "description": "Tool designed to easily start a new project with Next.js, Typescript, Redux Toolkit, Mui and Mongoose",
+  "repository": "https://github.com/marcoscssno/nextjs-project-starter",
+  "author": "Marcos Cassiano <marcoscssno@gmail.com>",
+  "license": "MIT"
 }
